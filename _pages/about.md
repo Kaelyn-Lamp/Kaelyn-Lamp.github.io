@@ -8,5 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Kaelyn Lamp.
+I am a linguistics graduate student at Cornell University.  I am interested in testing assumptions and investigating linguistic representations using computational methods.   
+
+Research Interests: Computational Linguistics, Semantics, Phonetics, Psycholinguistics
 
