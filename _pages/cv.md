@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Spring 2015: Research Assistant
+* Spring 2020: Research Assistant
   * Cornell University
   * Supervisor: Marten van Schijndel
 
