@@ -9,12 +9,3 @@ location: "Ithaca, New York"
 ---
 
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
