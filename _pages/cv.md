@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Linguistics, Cornell University, 2023 (expected)
+* B.A. in Mathematics/Statistics & Linguistics/Philosophy, University of Connecticut, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2015: Research Assistant
+  * Cornell University
+  * Supervisor: Marten van Schijndel
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019: Teaching Assistant - Introduction to Linguistics
+  * Cornell University
+  * Supervisor: Sarah Murray
+
+* Summer 2018: Artificial Intelligence Intern – EBIA Artificial Intelligence
+  * Travelers Insurance
+  
+* Summer 2017: Business Intelligence Intern - EBIA Architecture
+  * Travelers Insurance
+
+* Summer 2016: Business Intelligence Intern - CBIA Info Delivery
+  * Travelers Insurance
+
+* Summer 2015: Summer Student - Guaranteed Cost Ops Workforce Optimization
+  * Travelers Insurance
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * Matlab
+  * Scheme
 
 Publications
 ======
@@ -56,4 +63,14 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019-2020: Senior Editor of SALT
+  * Cornell University
+
+* 2019-2020: Senior CLC Web Adminstrator
+  * Cornell University
+
+* 2018-2019: Junior Editor of SALT
+  * Cornell University
+
+* 2018-2019: Junior CLC Web Adminstrator
+  * Cornell University
