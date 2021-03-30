@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student in the Department of Linguistics at Cornell University.  I am interested in investigating linguistic (mostly phonetic and semantic) representations using computational methods and understanding what the computational methods are doing as well as how they compare to human behavior.  At Cornell I am affiliated with the Phonetics Lab, C.Psyd Research Lab (Computational Psycholinguistics), and the Interdisiplanary Semantics Group. 
+I am a Ph.D student in the Department of Linguistics at Cornell University.  I am interested in investigating linguistic (mostly phonetic and semantic) representations using computational methods and understanding what the computational methods are doing as well as how they compare to human behavior.  At Cornell I am affiliated with the Phonetics Lab, C.Psyd Research Lab (Computational Psycholinguistics), Cornell NLP (Cornell Natural Language Processing Group), and the Interdisiplanary Semantics Group. 
 
 Research Interests: Computational Linguistics, Semantics, Phonetics, Psycholinguistics
 
