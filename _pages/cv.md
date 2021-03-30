@@ -12,10 +12,17 @@ redirect_from:
 Education
 ======
 * Ph.D in Linguistics, Cornell University, 2023 (expected)
-* B.A. in Mathematics/Statistics & Linguistics/Philosophy, University of Connecticut, 2014
+* B.A. in Mathematics/Statistics & Linguistics/Philosophy, University of Connecticut, 2018
 
 Work experience
 ======
+* Spring 2021: Teaching Assistant - Computational Linguistics
+  * Cornell University
+  * Supervisor: Mats Rooth
+
+* Fall 2020: Instructor - First Year Writing Seminar
+  * Cornell University
+  
 * Spring 2020: Research Assistant
   * Cornell University
   * Supervisor: Marten van Schijndel
