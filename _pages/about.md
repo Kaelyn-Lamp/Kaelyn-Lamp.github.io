@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year Ph.D student in the Department of Linguistics at Cornell University.  I am interested in investigating semantic and pragmatic question through computational and experimental methods as well as using linguistic knowledge to inform NLP tasks.  At Cornell I am affiliated with  C.Psyd Research Lab (Computational Psycholinguistics), Cornell NLP (Cornell Natural Language Processing Group), LiMe Lab (Language and meaning), and the Interdisiplanary Semantics Group. 
+I will offically graduate with my Ph.D in Linguistics from Cornell University this summer. I am interested in investigating semantic and pragmatic question through computational and experimental methods as well as using linguistic knowledge to inform NLP tasks. My most recent research analyses the use of causal language in hate speech. At Cornell I am affiliated with Cornell Computational Linguistics Lab (CLab), Cornell Natural Language Processing (NLP), Computational Psycholinguistics Discussions (C.Psyd), Linguistic Meaning Lab (LiMe), and Cornell Semantics Group. I am an editor of SALT (Semantics and Linguisitc Theory) 29 and SALT 30.
 
-Research Interests: Causality, Computational Linguistics, Semantics, Pragmatics, Psycholinguistics
+Research Interests: Causality, Hate Speech, Computational Linguistics, Semantics, Pragmatics, Psycholinguistics
 
-When I am not working on research, I have a VERY high-energy dog named Finn.  He loves hikes, learning tricks, and being the center of attention.  I spend my free time playing with my dog, rock climbing, reading, and traveling.  I am an editor of SALT (Semantics and Linguisitc Theory) 29 and SALT 30.  
+When I am not working on research, I spend time with my VERY high-energy dog named Finn. He loves hiking, car rides, and being the center of attention. Otherwise you can find me rock climbing, reading, and traveling.    
