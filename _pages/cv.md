@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Linguistics, Cornell University, 2023 (expected)
+* Ph.D in Linguistics, Cornell University, Summer 2024 (expected)
 * B.A. in Mathematics/Statistics & Linguistics/Philosophy, University of Connecticut, 2018
 
 Work experience
@@ -50,13 +50,7 @@ Skills
   * Matlab
   * Scheme
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Research
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
