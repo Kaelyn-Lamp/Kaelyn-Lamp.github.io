@@ -16,20 +16,10 @@ Education
 
 Work experience
 ======
-* Spring 2021: Teaching Assistant - Computational Linguistics
-  * Cornell University
-  * Supervisor: Mats Rooth
-
-* Fall 2020: Instructor - First Year Writing Seminar
-  * Cornell University
   
 * Spring 2020: Research Assistant
   * Cornell University
   * Supervisor: Marten van Schijndel
-
-* Fall 2019: Teaching Assistant - Introduction to Linguistics
-  * Cornell University
-  * Supervisor: Sarah Murray
 
 * Summer 2018: Artificial Intelligence Intern – EBIA Artificial Intelligence
   * Travelers Insurance
