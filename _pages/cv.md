@@ -20,12 +20,16 @@ Education
 
 Work experience
 ======
+* 2021-2022: Lab Assistant/Student Researcher
+  * Cornell University
+  * Supervisor: Beth Lyon/ Dr. Marten van Schijndel
+    
 * Summer 2020: Knight Institute Writing Center Tutor
   * Cornell University
     
 * Spring 2020: Research Assistant
   * Cornell University
-  * Supervisor: Marten van Schijndel
+  * Supervisor: Dr. Marten van Schijndel
 
 * Summer 2018: Artificial Intelligence Intern – EBIA Artificial Intelligence
   * Travelers Insurance
@@ -33,8 +37,16 @@ Work experience
 * Summer 2017: Business Intelligence Intern - EBIA Architecture
   * Travelers Insurance
 
+* Spring 2017: Undergraduate Researcher
+  * University of Connecticut
+  * Supervisor: Dr. Stefan Kaufmann
+
 * Summer 2016: Business Intelligence Intern - CBIA Info Delivery
   * Travelers Insurance
+
+* Fall 2016: Undergraduate Researcher Assistant
+  * University of Connecticut
+  * Supervisor: Dr. William Snyder
 
 * Summer 2015: Summer Student - Guaranteed Cost Ops Workforce Optimization
   * Travelers Insurance
