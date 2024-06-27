@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Linguistics (Teaching Assisntant)"
+title: "Introduction to Linguistics (Teaching Assistant)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching
