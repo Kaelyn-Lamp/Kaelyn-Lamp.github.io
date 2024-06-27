@@ -44,7 +44,7 @@ Work experience
 * Summer 2016: Business Intelligence Intern - CBIA Info Delivery
   * Travelers Insurance
 
-* Fall 2016: Undergraduate Researcher Assistant
+* Fall 2016: Undergraduate Research Assistant
   * University of Connecticut
   * Supervisor: Dr. William Snyder
 
