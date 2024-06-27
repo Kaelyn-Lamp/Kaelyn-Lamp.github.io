@@ -1,5 +1,5 @@
 ---
-title: "Computational Linguistics"
+title: "Computational Linguistics (Teaching Assistant)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching
