@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[View Full CV][def]
+
+[def]: ../files/CV(2024).pdf
+
 Education
 ======
 * Ph.D in Linguistics, Cornell University, Summer 2024 (expected)
@@ -16,7 +20,9 @@ Education
 
 Work experience
 ======
-  
+* Summer 2020: Knight Institute Writing Center Tutor
+  * Cornell University
+    
 * Spring 2020: Research Assistant
   * Cornell University
   * Supervisor: Marten van Schijndel
@@ -39,6 +45,9 @@ Skills
   * Python
   * Matlab
   * Scheme
+* Languages
+  * English-Fluent
+  * Spanish-Beginner
 
 Research
 ======
