@@ -1,5 +1,5 @@
 ---
-title: "First Year Writing Seminar"
+title: "First Year Writing Seminar (Instructor)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-teaching
